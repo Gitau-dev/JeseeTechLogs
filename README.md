@@ -5,7 +5,7 @@ Welcome to my Linux + System Admin practice log. I'm using this space to grow my
 
 ---
 
-## 📅 Day 1 — Command Mastery
+## 📅 lesson 1 — Command Mastery
 
 **✅ Goal**: Practice file and directory commands  
 **📂 Setup**:
