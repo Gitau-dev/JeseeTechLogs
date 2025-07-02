@@ -1,6 +1,5 @@
 # JeseeTechLogs
 Documenting my journey to becoming a Linux System Administrator
-# Jesee TechLogs: System Admin Journey
 
 Welcome to my Linux + System Admin practice log. I'm using this space to grow my command-line, user management, and infrastructure skills — one day at a time.
 
