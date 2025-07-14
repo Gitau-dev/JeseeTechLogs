@@ -5,18 +5,17 @@ Welcome to my Linux + System Admin practice log. I'm using this space to grow my
 
 ---
 
-## 📅 lesson 1 — Command Mastery
+## lesson 1 — Command Mastery
 
-**✅ Goal**: Practice file and directory commands  
-**📂 Setup**:
+** Goal**: Practice file and directory commands  
+** Setup**:
 - Created `sysadmin_practice/` folder
 - Added `logs/`, `configs/`, `users/`, and `archive/`
 - Created sample config files, logs, and moved them around
 - Learned how to log my command history
 - Practiced capturing and organizing my terminal output
 
-📝 Commands saved to: `logs/command_log.txt`  
-📸 Screenshot: (coming soon...)
+ Commands saved to: `logs/command_log.txt`  
 
 ---
 
